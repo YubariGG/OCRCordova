@@ -6,6 +6,8 @@ This proyect is orientated to Mobility aplications. It uses standard MVC UI5 web
 The way to make it mobile is using apache cordova framework.
 https://cordova.apache.org/ 
 
+![alt text](https://github.com//YubariGG/OCRCordova/blob/master/App.PNG?raw=true)
+
 To create new proyect simply use:
 
 ``` cordova create projectname com.yourcompany.app ```
