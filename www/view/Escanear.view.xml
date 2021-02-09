@@ -1,0 +1,44 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="idom.ocr.controller.Escanear" displayBlock="true">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content>
+						<HBox justifyContent="Center" alignContent="Center" alignItems="Center" width="100%">
+							<Button xmlns="sap.m" text="Start Reading" press="escanear" width="80%" id="startReading" class="sapUiSmallMargin"/>
+						</HBox>
+						<HBox justifyContent="Center" alignContent="Center" alignItems="Center" width="100%">
+							<TextArea id="TextAreaReasultado" models="" bindingContexts="" objectBindings="" metadataContexts="" Type="" class="sapUiSmallMargin" blocked="false"
+								busy="false" busyIndicatorDelay="1000" busyIndicatorSize="Medium" visible="true" fieldGroupIds="" value="No text detected." width="90%"
+								enabled="true" valueState="None" name="" placeholder="" editable="false" valueStateText="" showValueStateMessage="true" textAlign="Initial"
+								textDirection="Inherit" required="false" rows="2" cols="20" height="" maxLength="0" showExceededText="false" wrapping="None"
+								valueLiveUpdate="false" growing="false" growingMaxLines="0" ariaLabelledBy="" validationSuccess="" validationError="" parseError=""
+								formatError="" modelContextChange="" validateFieldGroup="" change="" liveChange="">
+								<!--	<tooltip></tooltip>-->
+								<!-- sap.ui.core.TooltipBase -->
+								<!--<customData></customData>-->
+								<!-- sap.ui.core.CustomData -->
+								<!--<layoutData></layoutData>-->
+								<!-- sap.ui.core.LayoutData -->
+								<!--<dependents></dependents>-->
+								<!-- sap.ui.core.Element -->
+								<!--<dragDropConfig></dragDropConfig>-->
+								<!-- sap.ui.core.dnd.DragDropBase -->
+								<!--<formattedValueStateText></formattedValueStateText>-->
+								<!-- sap.m.FormattedText -->
+								<!--<_invisibleFormattedValueStateText></_invisibleFormattedValueStateText>-->
+								<!-- sap.m.FormattedText -->
+								<!--<_endIcon></_endIcon>-->
+								<!-- sap.ui.core.Icon -->
+								<!--<_beginIcon></_beginIcon>-->
+								<!-- sap.ui.core.Icon -->
+								<!--<_counter></_counter>-->
+								<!-- sap.m.Text -->
+							</TextArea>
+						</HBox>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>

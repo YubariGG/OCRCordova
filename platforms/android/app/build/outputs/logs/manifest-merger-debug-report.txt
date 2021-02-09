@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+provider#org.apache.cordova.camera.FileProvider
+INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:12:9-14:20
+	android:grantUriPermissions
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:12:92-126
+	android:authorities
+		INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:12:19-66
+	android:exported
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:12:67-91
+	android:name
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:12:127-180
+manifest
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\17b3181e2e43d45f1228b57b291619f0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\cd7df1197aab997efc639aa8e03c5911\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\8f50c03f013e6dbb330bde88ce52a0f6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\310d5b65493db25b6d4f66b7002a5a18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\bf9e135cde37204e42feb83f9c6be08f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4b6bb859d4a4eefe14c2533a4f0f30bd\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ac990fc6259b6693b8d66b7497d488ac\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\aac34691dedb4d34e2f0a7c2a91023df\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\169c1d1e11521c2bc6efd5f2e2282bfd\AndroidManifest.xml:17:1-22:12
+MERGED from [:CordovaLib] C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\885373c998bc8d0fc0f208ad5f647fed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7fab465dbdab65ff2d248963c4cee230\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d4ae61369f606eb075ef30cba19b4e33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fc31c7c6ecc94c23495a1df112ae4621\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e52adeaddeaf4a1d6bd64c9d39177d65\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2a65a8a8a429ed16f383088888b0b8ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\de93cc91534a1ced800b327303529c13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\20c47cbeb06f984ccea3791cb9a75181\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2599e33f1b956b11519075636ba867c1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:102-128
+		INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:129-187
+	android:versionCode
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:5:5-15:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\17b3181e2e43d45f1228b57b291619f0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\17b3181e2e43d45f1228b57b291619f0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\cd7df1197aab997efc639aa8e03c5911\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\cd7df1197aab997efc639aa8e03c5911\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\8f50c03f013e6dbb330bde88ce52a0f6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\8f50c03f013e6dbb330bde88ce52a0f6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\bf9e135cde37204e42feb83f9c6be08f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\bf9e135cde37204e42feb83f9c6be08f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4b6bb859d4a4eefe14c2533a4f0f30bd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4b6bb859d4a4eefe14c2533a4f0f30bd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ac990fc6259b6693b8d66b7497d488ac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ac990fc6259b6693b8d66b7497d488ac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\aac34691dedb4d34e2f0a7c2a91023df\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\aac34691dedb4d34e2f0a7c2a91023df\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+activity#com.idom.ui5.ocr.MainActivity
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+uses-sdk
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:16:5-74
+INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:16:5-74
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\17b3181e2e43d45f1228b57b291619f0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\17b3181e2e43d45f1228b57b291619f0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\cd7df1197aab997efc639aa8e03c5911\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\cd7df1197aab997efc639aa8e03c5911\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\8f50c03f013e6dbb330bde88ce52a0f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\8f50c03f013e6dbb330bde88ce52a0f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\310d5b65493db25b6d4f66b7002a5a18\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\310d5b65493db25b6d4f66b7002a5a18\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\bf9e135cde37204e42feb83f9c6be08f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\bf9e135cde37204e42feb83f9c6be08f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4b6bb859d4a4eefe14c2533a4f0f30bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4b6bb859d4a4eefe14c2533a4f0f30bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ac990fc6259b6693b8d66b7497d488ac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ac990fc6259b6693b8d66b7497d488ac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\aac34691dedb4d34e2f0a7c2a91023df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\aac34691dedb4d34e2f0a7c2a91023df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\169c1d1e11521c2bc6efd5f2e2282bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\169c1d1e11521c2bc6efd5f2e2282bfd\AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\885373c998bc8d0fc0f208ad5f647fed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\885373c998bc8d0fc0f208ad5f647fed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7fab465dbdab65ff2d248963c4cee230\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7fab465dbdab65ff2d248963c4cee230\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d4ae61369f606eb075ef30cba19b4e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d4ae61369f606eb075ef30cba19b4e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fc31c7c6ecc94c23495a1df112ae4621\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fc31c7c6ecc94c23495a1df112ae4621\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e52adeaddeaf4a1d6bd64c9d39177d65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e52adeaddeaf4a1d6bd64c9d39177d65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2a65a8a8a429ed16f383088888b0b8ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2a65a8a8a429ed16f383088888b0b8ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\de93cc91534a1ced800b327303529c13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\de93cc91534a1ced800b327303529c13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\20c47cbeb06f984ccea3791cb9a75181\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\20c47cbeb06f984ccea3791cb9a75181\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2599e33f1b956b11519075636ba867c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2599e33f1b956b11519075636ba867c1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:16:5-74
+	android:targetSdkVersion
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:16:42-71
+	android:minSdkVersion
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:16:15-41
+		INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:18:22-77
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:19:5-96
+	android:value
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:19:74-93
+	android:name
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:19:16-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:13:13-123
+	android:resource
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:13:75-120
+	android:name
+		ADDED from C:\Users\jaime.hernandez\Desktop\ocrui5\platforms\android\app\src\main\AndroidManifest.xml:13:24-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4b6bb859d4a4eefe14c2533a4f0f30bd\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4b6bb859d4a4eefe14c2533a4f0f30bd\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4b6bb859d4a4eefe14c2533a4f0f30bd\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4b6bb859d4a4eefe14c2533a4f0f30bd\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\aac34691dedb4d34e2f0a7c2a91023df\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\aac34691dedb4d34e2f0a7c2a91023df\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\jaime.hernandez\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\aac34691dedb4d34e2f0a7c2a91023df\AndroidManifest.xml:24:13-58
