@@ -12,7 +12,7 @@ To create new proyect simply use:
 
 Then, add neccessary platforms and plugins. IN my case I used:
 
-´´´ cordova platforms add android ´´´
+``` cordova platforms add android ```
 
 Then 
 
