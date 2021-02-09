@@ -22,3 +22,4 @@ Then
 Then adapt your interface and you can use navigator functions like camera and texocr context.
 
 Developed on february 2021 forgeneral purposes.
+
